@@ -1,6 +1,6 @@
 # ais7_demo
 
-<img src="https://item.kakaocdn.net/do/fd0050f12764b403e7863c2c03cd4d2d7154249a3890514a43687a85e6b6cc82">
+<img src="![image](https://user-images.githubusercontent.com/115577097/196314954-46b1aefd-f568-47c2-8644-d7d93cfbc1f1.png)" >
 
 * 멋쟁이 사자처럼 AIS7 실습
 
