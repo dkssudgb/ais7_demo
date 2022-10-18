@@ -1,6 +1,6 @@
 # ais7_demo
 
-<img src="https://user-images.githubusercontent.com/115577097/196315027-7963a3c6-be2d-4ef2-95bb-70cce179f90e.png"width=300 height=200>
+<img src="https://user-images.githubusercontent.com/115577097/196315027-7963a3c6-be2d-4ef2-95bb-70cce179f90e.png" width=300 height=200>
 
 * 멋쟁이 사자처럼 AIS7 실습
 
